@@ -17,5 +17,6 @@ public class AppiumTest {
 	public void Apm2()
 	{
 		System.out.println("In Appium 2");
+		System.out.println("In Appium 2");
 	}
 }
