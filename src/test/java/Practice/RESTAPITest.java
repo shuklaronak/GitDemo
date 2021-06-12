@@ -19,7 +19,9 @@ public class RESTAPITest {
 	@Test
 	public void API2()
 	{
-		System.out.println("In API 2");
+		System.out.println("In API 2.1");
+		System.out.println("In API 2.2");
+		System.out.println("In API 2.3");
 	}
 
 }
