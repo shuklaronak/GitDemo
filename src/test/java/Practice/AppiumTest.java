@@ -9,6 +9,8 @@ public class AppiumTest {
 	public void Apm1()
 	{
 		System.out.println("In Appium 1");
+		System.out.println("In Appium 1");
+		System.out.println("In Appium 1");
 	}
 	
 	@Test
