@@ -22,6 +22,8 @@ public class RESTAPITest {
 		System.out.println("In API 2.1");
 		System.out.println("In API 2.2");
 		System.out.println("In API 2.3");
+		System.out.println("In API 2.4");
+		System.out.println("In API 2.5");
 	}
 
 }
