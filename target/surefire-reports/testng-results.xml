@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39" started-at="2021-06-10T01:58:19 IST" finished-at="2021-06-10T01:58:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39" started-at="2021-06-10T01:58:19 IST" finished-at="2021-06-10T01:58:19 IST">
+      <class name="Practice.SeleniumTest">
+        <test-method status="PASS" signature="Sel1()[pri:0, instance:Practice.SeleniumTest@20398b7c]" name="Sel1" duration-ms="3" started-at="2021-06-10T01:58:19 IST" finished-at="2021-06-10T01:58:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sel1 -->
+        <test-method status="PASS" signature="Sel2()[pri:0, instance:Practice.SeleniumTest@20398b7c]" name="Sel2" duration-ms="0" started-at="2021-06-10T01:58:19 IST" finished-at="2021-06-10T01:58:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sel2 -->
+      </class> <!-- Practice.SeleniumTest -->
+      <class name="Practice.RESTAPITest">
+        <test-method status="PASS" signature="API1()[pri:0, instance:Practice.RESTAPITest@6b09bb57]" name="API1" duration-ms="0" started-at="2021-06-10T01:58:19 IST" finished-at="2021-06-10T01:58:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API1 -->
+        <test-method status="PASS" signature="API2()[pri:0, instance:Practice.RESTAPITest@6b09bb57]" name="API2" duration-ms="0" started-at="2021-06-10T01:58:19 IST" finished-at="2021-06-10T01:58:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API2 -->
+      </class> <!-- Practice.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

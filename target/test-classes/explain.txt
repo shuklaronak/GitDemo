@@ -1,0 +1,6 @@
+Maven commands in command prompt (change directory to project path)
+- mvn clean
+- mvn compile
+- mvn test (runs all java files ending with test)
+- mvn -Dtest=SeleniumTest test (Runs specific class)
+- mvn test -PRegression (Runs using profile from testng)
