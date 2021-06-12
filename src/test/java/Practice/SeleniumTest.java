@@ -15,6 +15,8 @@ public class SeleniumTest {
 	public void Sel2()
 	{
 		System.out.println("In Selenium 2");
+		System.out.println("In Selenium 2");
+		System.out.println("In Selenium 2");
 	}
 
 }
