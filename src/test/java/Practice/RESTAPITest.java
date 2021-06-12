@@ -11,6 +11,9 @@ public class RESTAPITest {
 		System.out.println("In API 1.1");
 		System.out.println("In API 1.2");
 		System.out.println("In API 1.3");
+		System.out.println("In API 1.1");
+		System.out.println("In API 1.2");
+		System.out.println("In API 1.3");
 	}
 	
 	@Test
